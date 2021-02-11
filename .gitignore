@@ -2,7 +2,7 @@ node_modules
 .env
 key map.txt
 key.txt
-db.sqlite_projet_entrega
+!db.sqlite_projet_entrega
 test.sqlite
 db.sqlite3_test
 yarn.lock
