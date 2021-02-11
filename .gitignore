@@ -5,3 +5,4 @@ key.txt
 db.sqlite_projet_entrega
 test.sqlite
 db.sqlite3_test
+yarn.lock
